@@ -6,8 +6,11 @@ System.out.println("hello");
   System.out.println("hello");
 }
 
-  class b{
+  class B{
     System.out.println("heloo");
 }
-
+class C {
+  System.out.println("hello");
+}
+}
 
